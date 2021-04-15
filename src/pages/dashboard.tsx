@@ -65,7 +65,7 @@ export default function Dashboard() {
   return (
     <>
       <Head>
-        <title>Dashboard | DashGo</title>
+        <title>Dashboard | dashgo</title>
       </Head>
 
       <Flex direction="column" h="100vh">

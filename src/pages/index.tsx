@@ -7,7 +7,7 @@ export default function SignIn() {
   return (
     <>
       <Head>
-        <title>Login | DashGo</title>
+        <title>Login | dashgo</title>
       </Head>
 
       <Flex
